@@ -1,0 +1,9 @@
+PyQt5
+torch
+torchaudio
+wavio
+nltk
+pandas
+shutil
+threading
+os

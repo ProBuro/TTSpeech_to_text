@@ -39,7 +39,7 @@ Libraries used: PyQt5, Pytorch, Wavio, NLTK.
 + После первого озвучивания файлы рекомендуется переименовать или сохранить в другом месте
 ----
 #### We apologize to the author of the dictionary of words with Russian accents, the link to which is irretrievably lost
-#### Приносим свои извинения автору словаря слов с русскими ударениями, ссылка на который безвозвратно утеряна.
+#### Приносим свои извинения автору словаря слов с русскими ударениями, ссылка на который потеряна.
 ----
 <!-- [![Watch on Youtube](https://i.postimg.cc/nLRyKtHc/screen-tts.png)](https://youtu.be/AGO4QBAt0rU "Watch on Youtube") -->
 <p align="center">

@@ -41,5 +41,5 @@ Libraries used: PyQt5, Pytorch, Wavio, NLTK.
 #### We apologize to the author of the dictionary of words with Russian accents, the link to which is irretrievably lost
 #### Приносим свои извинения автору словаря слов с русскими ударениями, ссылка на который безвозвратно утеряна.
 ----
-[![Watch on Youtube](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/AGO4QBAt0rU "Watch on Youtube")
+[![Watch on Youtube](https://github.com/ProBuro/TTSpeech_to_text/blob/main/images/tts_logo.png)](https://youtu.be/AGO4QBAt0rU "Watch on Youtube")
 
